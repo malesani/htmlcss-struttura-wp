@@ -10,6 +10,7 @@ body{
   margin-left: 8%;
   margin-right: 8%;
   height: 1000px;
+  margin-bottom: 20px;
   
 
 }
@@ -20,7 +21,7 @@ body{
 }
 
 /* Float */
-.titolo
+.titolo 
 .intro
 .sub-titolo
 .left
@@ -71,6 +72,15 @@ body{
   width: 56%;
   margin-left: 2%;
   margin-right: 2%;
+}
+
+/* footer */
+footer{
+  height: 100px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 1%;
+  background-color: #e579e6;
 }
 
 
